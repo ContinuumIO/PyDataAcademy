@@ -1,0 +1,14 @@
+{
+	"name": "olap_cubes_introduction",
+	"label": "OLAP Cubes - introduction",
+	"category": "analytical_modelling",
+
+	"level": "beginner",
+
+	"required": [
+			"etl_basics"
+		],
+
+	"recommended": [],
+	"author": "Continuum Analytics"
+}

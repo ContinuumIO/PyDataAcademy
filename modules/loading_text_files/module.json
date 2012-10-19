@@ -1,0 +1,11 @@
+{
+	"name": "loading_text_files",
+	"label": "Loading Text Files (numpy)",
+	"category": "extraction",
+	"level": "beginner",
+
+	"required": [ "python", "numpy-basics" ],
+	"recommended": [],
+
+	"author": "Continuum Analytics"
+}

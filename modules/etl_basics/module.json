@@ -1,0 +1,11 @@
+{
+	"name": "etl_basics",
+	"label": "ETL Basics",
+	"level": "beginner",
+	"category": "processing",
+
+	"required": [ "python" ],
+	"recommended": ["olap_cubes_introduction"],
+
+	"author": "Continuum Analytics"
+}
