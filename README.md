@@ -64,3 +64,6 @@ Copyright
 
 (c) 2012 Continuum Analytics.
 
+License: Creative Commons Attribution-ShareAlike 3.0 Unported License
+
+See LICENSE file for more information. 
