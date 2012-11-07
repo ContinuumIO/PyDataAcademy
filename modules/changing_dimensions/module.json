@@ -1,0 +1,15 @@
+{
+	"name": "slowly_changing_dimensions",
+	"label": "Slowly Changing Dimensions",
+	"category": "etl",
+
+	"level": "beginner",
+
+	"required": [
+			"etl_basics",
+            "sql_basics"
+		],
+
+	"recommended": ["analytical_modellign"],
+	"author": "Continuum Analytics"
+}
