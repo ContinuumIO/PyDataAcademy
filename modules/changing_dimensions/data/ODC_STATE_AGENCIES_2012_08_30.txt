@@ -1,0 +1,1218 @@
+2013|016|Texas Council on Alzheimer's Disease and Related Disorders
+2013|101|Senate
+2013|102|House of Representatives
+2013|103|Texas Legislative Council
+2013|104|Legislative Budget Board
+2013|105|Legislative Reference Library
+2013|107|Commission on Uniform State Laws
+2013|116|Sunset Advisory Commission
+2013|201|Supreme Court
+2013|202|State Bar of Texas
+2013|203|Board of Law Examiners
+2013|211|Court of Criminal Appeals
+2013|212|Office of Court Administration
+2013|213|State Prosecuting Attorney, Office of
+2013|215|Office of Capital Writs
+2013|221|Court of Appeals – First Court of Appeals District
+2013|222|Court of Appeals – Second Court of Appeals District
+2013|223|Court of Appeals – Third Court of Appeals District
+2013|224|Court of Appeals – Fourth Court of Appeals District
+2013|225|Court of Appeals – Fifth Court of Appeals District
+2013|226|Court of Appeals – Sixth Court of Appeals District
+2013|227|Court of Appeals – Seventh Court of Appeals District
+2013|228|Court of Appeals – Eighth Court of Appeals District
+2013|229|Court of Appeals – Ninth Court of Appeals District
+2013|230|Court of Appeals – Tenth Court of Appeals District
+2013|231|Court of Appeals – Eleventh Court of Appeals District
+2013|232|Court of Appeals – Twelfth Court of Appeals District
+2013|233|Court of Appeals – Thirteenth Court of Appeals District
+2013|234|Court of Appeals – Fourteenth Court of Appeals District
+2013|241|District Courts – Comptroller’s Judiciary Section
+2013|242|State Commission on Judicial Conduct
+2013|243|State Law Library
+2013|300|Governor – Fiscal
+2013|301|Governor – Executive
+2013|302|Attorney General
+2013|303|Texas Facilities Commission
+2013|304|Comptroller of Public Accounts
+2013|305|General Land Office
+2013|306|Texas State Library and Archives Commission
+2013|307|Secretary of State
+2013|308|State Auditor
+2013|311|Comptroller – Treasury Fiscal
+2013|312|State Securities Board
+2013|313|Department of Information Resources
+2013|315|Comptroller – Prepaid Higher Education Tuition Board
+2013|320|Texas Workforce Commission
+2013|323|Teacher Retirement System of Texas
+2013|325|Fire Fighter’s Pension Commissioner
+2013|327|Employees Retirement System of Texas
+2013|329|Texas Real Estate Commission
+2013|332|Texas Department of Housing and Community Affairs
+2013|333|Office of State – Federal Relations
+2013|338|State Pension Review Board
+2013|344|Commission on Human Rights
+2013|347|Texas Public Finance Authority
+2013|352|Bond Review Board
+2013|356|Texas Ethics Commission
+2013|357|Texas Department of Rural Affairs
+2013|359|Office of Public Insurance Counsel
+2013|360|State Office of Administrative Hearings
+2013|362|Texas Lottery Commission
+2013|364|Health Professions Council
+2013|370|Texas Residential Construction Commission
+2013|401|Adjutant General’s Department
+2013|403|Texas Veterans Commission
+2013|405|Texas Department of Public Safety
+2013|407|Commission on Law Enforcement Officer Standards and Education
+2013|409|Commission on Jail Standards
+2013|411|Texas Commission on Fire Protection
+2013|448|Office of Injured Employee Counsel
+2013|450|Department of Savings and Mortgage Lending
+2013|451|Texas Department of Banking
+2013|452|Texas Department of Licensing and Regulation
+2013|454|Texas Department of Insurance
+2013|455|Railroad Commission of Texas
+2013|456|Board of Plumbing Examiners
+2013|457|Texas State Board of Public Accountancy
+2013|458|Texas Alcoholic Beverage Commission
+2013|459|Texas Board of Architectural Examiners
+2013|460|Texas Board of Professional Engineers
+2013|464|Texas Board of Professional Land Surveying
+2013|466|Office of Consumer Credit Commissioner
+2013|469|Credit Union Department
+2013|472|Texas Structural Pest Control Board
+2013|473|Public Utility Commission of Texas
+2013|475|Office of Public Utility Counsel
+2013|476|Texas Racing Commission
+2013|477|Commission on State Emergency Communications
+2013|479|State Office of Risk Management
+2013|481|Texas Board of Professional Geoscientists
+2013|503|Texas Medical Board
+2013|504|State Board of Dental Examiners
+2013|506|University of Texas M.D. Anderson Cancer Center
+2013|507|Texas Board of Nursing
+2013|508|Texas Board of Chiropractic Examiners
+2013|512|State Board of Podiatric Medical Examiners
+2013|513|Texas Funeral Service Commission
+2013|514|Texas Optometry Board
+2013|515|Texas State Board of Pharmacy
+2013|520|Board of Examiners of Psychologists
+2013|528|State Anatomical Board
+2013|529|Health and Human Services Commission
+2013|530|Department of Family and Protective Services
+2013|533|Executive Council of Physical and Occupational Therapy Examiners
+2013|535|Texas Low-Level Radioactive Waste Disposal Compact Commission
+2013|537|Department of State Health Services
+2013|538|Department of Assistive and Rehabilitative Services
+2013|539|Department of Aging and Disability Services
+2013|542|Cancer Prevention and Research Institute of Texas
+2013|551|Department of Agriculture
+2013|554|Texas Animal Health Commission
+2013|555|Texas A&M AgriLife Extension Service
+2013|556|Texas A&M AgriLife Research
+2013|557|Texas A&M Veterinary Medical Diagnostic Laboratory
+2013|576|Texas A&M Forest Service
+2013|578|State Board of Veterinary Medical Examiners
+2013|580|Texas Water Development Board
+2013|582|Texas Commission on Environmental Quality
+2013|592|Soil and Water Conservation Board
+2013|601|Texas Department of Transportation
+2013|608|Texas Department of Motor Vehicles
+2013|644|Texas Juvenile Justice Department
+2013|665|Texas Juvenile Probation Commission
+2013|694|Texas Youth Commission
+2013|696|Texas Department of Criminal Justice
+2013|701|Texas Education Agency
+2013|704|Public Community/Junior Colleges
+2013|708|Texas A&M University System -- Office of Sponsored Research Services
+2013|709|Texas A&M University System Health Science Center
+2013|710|Texas A&M University System
+2013|711|Texas A&M University (Main University)
+2013|712|Texas A&M Engineering Experiment Station
+2013|713|Tarleton State University
+2013|714|University of Texas at Arlington
+2013|715|Prairie View A&M University
+2013|716|Texas A&M Engineering Extension Service
+2013|717|Texas Southern University
+2013|718|Texas A&M University at Galveston
+2013|719|Texas State Technical College System
+2013|720|University of Texas System
+2013|721|University of Texas at Austin
+2013|723|University of Texas Medical Branch at Galveston
+2013|724|University of Texas at El Paso
+2013|727|Texas A&M Transportation Institute
+2013|729|University of Texas Southwestern Medical Center at Dallas
+2013|730|University of Houston
+2013|731|Texas Woman’s University
+2013|732|Texas A&M University – Kingsville
+2013|733|Texas Tech University
+2013|734|Lamar University
+2013|735|Midwestern State University
+2013|736|University of Texas – Pan American
+2013|737|Angelo State University
+2013|738|University of Texas at Dallas
+2013|739|Texas Tech University Health Sciences Center
+2013|742|University of Texas of the Permian Basin
+2013|743|University of Texas at San Antonio
+2013|744|University of Texas Health Science Center at Houston
+2013|745|University of Texas Health Science Center at San Antonio
+2013|747|University of Texas at Brownsville
+2013|749|Texas A&M University - San Antonio
+2013|750|University of Texas at Tyler
+2013|751|Texas A&M University – Commerce
+2013|752|University of North Texas
+2013|753|Sam Houston State University
+2013|754|Texas State University – San Marcos
+2013|755|Stephen F. Austin State University
+2013|756|Sul Ross State University
+2013|757|West Texas A&M University
+2013|758|Texas State University System
+2013|759|University of Houston – Clear Lake
+2013|760|Texas A&M University – Corpus Christi
+2013|761|Texas A&M International University
+2013|763|University of North Texas Health Science Center at Fort Worth
+2013|764|Texas A&M University – Texarkana
+2013|765|University of Houston – Victoria
+2013|768|Texas Tech University System
+2013|769|University of North Texas System
+2013|770|Texas A&M University - Central Texas
+2013|771|Texas School for the Blind and Visually Impaired
+2013|772|Texas School for the Deaf
+2013|773|University of North Texas at Dallas
+2013|781|Texas Higher Education Coordinating Board
+2013|783|University of Houston System
+2013|784|University of Houston – Downtown
+2013|785|University of Texas Health Center at Tyler
+2013|787|Lamar State College – Orange
+2013|788|Lamar State College – Port Arthur
+2013|789|Lamar Institute of Technology
+2013|802|Parks and Wildlife Department
+2013|808|Texas Historical Commission
+2013|809|State Preservation Board
+2013|813|Texas Commission on the Arts
+2013|819|Texas Emancipation Juneteenth Cultural and Historical Commission
+2013|902|Comptroller – State Fiscal
+2013|903|Comptroller – Funds Management
+2013|907|Comptroller – State Energy Conservation Office
+2013|930|Texas Treasury Safekeeping Trust Company
+2012|016|Texas Council on Alzheimer's Disease and Related Disorders
+2012|101|Senate
+2012|102|House of Representatives
+2012|103|Texas Legislative Council
+2012|104|Legislative Budget Board
+2012|105|Legislative Reference Library
+2012|107|Commission on Uniform State Laws
+2012|116|Sunset Advisory Commission
+2012|201|Supreme Court
+2012|202|State Bar of Texas
+2012|203|Board of Law Examiners
+2012|211|Court of Criminal Appeals
+2012|212|Office of Court Administration
+2012|213|State Prosecuting Attorney, Office of
+2012|215|Office of Capital Writs
+2012|221|Court of Appeals – First Court of Appeals District
+2012|222|Court of Appeals – Second Court of Appeals District
+2012|223|Court of Appeals – Third Court of Appeals District
+2012|224|Court of Appeals – Fourth Court of Appeals District
+2012|225|Court of Appeals – Fifth Court of Appeals District
+2012|226|Court of Appeals – Sixth Court of Appeals District
+2012|227|Court of Appeals – Seventh Court of Appeals District
+2012|228|Court of Appeals – Eighth Court of Appeals District
+2012|229|Court of Appeals – Ninth Court of Appeals District
+2012|230|Court of Appeals – Tenth Court of Appeals District
+2012|231|Court of Appeals – Eleventh Court of Appeals District
+2012|232|Court of Appeals – Twelfth Court of Appeals District
+2012|233|Court of Appeals – Thirteenth Court of Appeals District
+2012|234|Court of Appeals – Fourteenth Court of Appeals District
+2012|241|District Courts – Comptroller’s Judiciary Section
+2012|242|State Commission on Judicial Conduct
+2012|243|State Law Library
+2012|300|Governor – Fiscal
+2012|301|Governor – Executive
+2012|302|Attorney General
+2012|303|Texas Facilities Commission
+2012|304|Comptroller of Public Accounts
+2012|305|General Land Office
+2012|306|Texas State Library and Archives Commission
+2012|307|Secretary of State
+2012|308|State Auditor
+2012|311|Comptroller – Treasury Fiscal
+2012|312|State Securities Board
+2012|313|Department of Information Resources
+2012|315|Comptroller – Prepaid Higher Education Tuition Board
+2012|320|Texas Workforce Commission
+2012|323|Teacher Retirement System of Texas
+2012|325|Fire Fighter’s Pension Commissioner
+2012|327|Employees Retirement System of Texas
+2012|329|Texas Real Estate Commission
+2012|332|Texas Department of Housing and Community Affairs
+2012|333|Office of State – Federal Relations
+2012|338|State Pension Review Board
+2012|344|Commission on Human Rights
+2012|347|Texas Public Finance Authority
+2012|352|Bond Review Board
+2012|356|Texas Ethics Commission
+2012|357|Texas Department of Rural Affairs
+2012|359|Office of Public Insurance Counsel
+2012|360|State Office of Administrative Hearings
+2012|362|Texas Lottery Commission
+2012|364|Health Professions Council
+2012|370|Texas Residential Construction Commission
+2012|401|Adjutant General’s Department
+2012|403|Texas Veterans Commission
+2012|405|Texas Department of Public Safety
+2012|407|Commission on Law Enforcement Officer Standards and Education
+2012|409|Commission on Jail Standards
+2012|411|Texas Commission on Fire Protection
+2012|448|Office of Injured Employee Counsel
+2012|450|Department of Savings and Mortgage Lending
+2012|451|Texas Department of Banking
+2012|452|Texas Department of Licensing and Regulation
+2012|454|Texas Department of Insurance
+2012|455|Railroad Commission of Texas
+2012|456|Board of Plumbing Examiners
+2012|457|Texas State Board of Public Accountancy
+2012|458|Texas Alcoholic Beverage Commission
+2012|459|Texas Board of Architectural Examiners
+2012|460|Texas Board of Professional Engineers
+2012|464|Texas Board of Professional Land Surveying
+2012|466|Office of Consumer Credit Commissioner
+2012|469|Credit Union Department
+2012|472|Texas Structural Pest Control Board
+2012|473|Public Utility Commission of Texas
+2012|475|Office of Public Utility Counsel
+2012|476|Texas Racing Commission
+2012|477|Commission on State Emergency Communications
+2012|479|State Office of Risk Management
+2012|481|Texas Board of Professional Geoscientists
+2012|503|Texas Medical Board
+2012|504|State Board of Dental Examiners
+2012|506|University of Texas M.D. Anderson Cancer Center
+2012|507|Texas Board of Nursing
+2012|508|Texas Board of Chiropractic Examiners
+2012|512|State Board of Podiatric Medical Examiners
+2012|513|Texas Funeral Service Commission
+2012|514|Texas Optometry Board
+2012|515|Texas State Board of Pharmacy
+2012|520|Board of Examiners of Psychologists
+2012|528|State Anatomical Board
+2012|529|Health and Human Services Commission
+2012|530|Department of Family and Protective Services
+2012|533|Executive Council of Physical and Occupational Therapy Examiners
+2012|535|Texas Low-Level Radioactive Waste Disposal Compact Commission
+2012|537|Department of State Health Services
+2012|538|Department of Assistive and Rehabilitative Services
+2012|539|Department of Aging and Disability Services
+2012|542|Cancer Prevention and Research Institute of Texas
+2012|543|Texas Council on Alzheimer's Disease and Related Disorders
+2012|551|Department of Agriculture
+2012|554|Texas Animal Health Commission
+2012|555|Texas AgriLife Extension Service
+2012|556|Texas AgriLife Research
+2012|557|Texas Veterinary Medical Diagnostic Laboratory
+2012|576|Texas Forest Service
+2012|578|State Board of Veterinary Medical Examiners
+2012|580|Texas Water Development Board
+2012|582|Texas Commission on Environmental Quality
+2012|592|Soil and Water Conservation Board
+2012|601|Texas Department of Transportation
+2012|608|Texas Department of Motor Vehicles
+2012|644|Texas Juvenile Justice Department
+2012|665|Texas Juvenile Probation Commission
+2012|694|Texas Youth Commission
+2012|696|Texas Department of Criminal Justice
+2012|701|Texas Education Agency
+2012|704|Public Community/Junior Colleges
+2012|708|Texas A&M University System -- Office of Sponsored Research Services
+2012|709|Texas A&M University System Health Science Center
+2012|710|Texas A&M University System
+2012|711|Texas A&M University (Main University)
+2012|712|Texas Engineering Experiment Station
+2012|713|Tarleton State University
+2012|714|University of Texas at Arlington
+2012|715|Prairie View A&M University
+2012|716|Texas Engineering Extension Service
+2012|717|Texas Southern University
+2012|718|Texas A&M University at Galveston
+2012|719|Texas State Technical College System
+2012|720|University of Texas System
+2012|721|University of Texas at Austin
+2012|723|University of Texas Medical Branch at Galveston
+2012|724|University of Texas at El Paso
+2012|727|Texas Transportation Institute
+2012|729|University of Texas Southwestern Medical Center at Dallas
+2012|730|University of Houston
+2012|731|Texas Woman’s University
+2012|732|Texas A&M University – Kingsville
+2012|733|Texas Tech University
+2012|734|Lamar University
+2012|735|Midwestern State University
+2012|736|University of Texas – Pan American
+2012|737|Angelo State University
+2012|738|University of Texas at Dallas
+2012|739|Texas Tech University Health Sciences Center
+2012|742|University of Texas of the Permian Basin
+2012|743|University of Texas at San Antonio
+2012|744|University of Texas Health Science Center at Houston
+2012|745|University of Texas Health Science Center at San Antonio
+2012|747|University of Texas at Brownsville
+2012|749|Texas A&M University - San Antonio
+2012|750|University of Texas at Tyler
+2012|751|Texas A&M University – Commerce
+2012|752|University of North Texas
+2012|753|Sam Houston State University
+2012|754|Texas State University – San Marcos
+2012|755|Stephen F. Austin State University
+2012|756|Sul Ross State University
+2012|757|West Texas A&M University
+2012|758|Texas State University System
+2012|759|University of Houston – Clear Lake
+2012|760|Texas A&M University – Corpus Christi
+2012|761|Texas A&M International University
+2012|763|University of North Texas Health Science Center at Fort Worth
+2012|764|Texas A&M University – Texarkana
+2012|765|University of Houston – Victoria
+2012|768|Texas Tech University System
+2012|769|University of North Texas System
+2012|770|Texas A&M University - Central Texas
+2012|771|Texas School for the Blind and Visually Impaired
+2012|772|Texas School for the Deaf
+2012|773|University of North Texas at Dallas
+2012|781|Texas Higher Education Coordinating Board
+2012|783|University of Houston System
+2012|784|University of Houston – Downtown
+2012|785|University of Texas Health Center at Tyler
+2012|787|Lamar State College – Orange
+2012|788|Lamar State College – Port Arthur
+2012|789|Lamar Institute of Technology
+2012|802|Parks and Wildlife Department
+2012|808|Texas Historical Commission
+2012|809|State Preservation Board
+2012|813|Texas Commission on the Arts
+2012|819|Texas Emancipation Juneteenth Cultural and Historical Commission
+2012|902|Comptroller – State Fiscal
+2012|903|Comptroller – Funds Management
+2012|907|Comptroller – State Energy Conservation Office
+2012|930|Texas Treasury Safekeeping Trust Company
+2011|016|Texas Council on Alzheimer's Disease and Related Disorders
+2011|101|Senate
+2011|102|House of Representatives
+2011|103|Texas Legislative Council
+2011|104|Legislative Budget Board
+2011|105|Legislative Reference Library
+2011|107|Commission on Uniform State Laws
+2011|116|Sunset Advisory Commission
+2011|201|Supreme Court
+2011|202|State Bar of Texas
+2011|203|Board of Law Examiners
+2011|211|Court of Criminal Appeals
+2011|212|Office of Court Administration
+2011|213|State Prosecuting Attorney, Office of
+2011|215|Office of Capital Writs
+2011|221|Court of Appeals – First Court of Appeals District
+2011|222|Court of Appeals – Second Court of Appeals District
+2011|223|Court of Appeals – Third Court of Appeals District
+2011|224|Court of Appeals – Fourth Court of Appeals District
+2011|225|Court of Appeals – Fifth Court of Appeals District
+2011|226|Court of Appeals – Sixth Court of Appeals District
+2011|227|Court of Appeals – Seventh Court of Appeals District
+2011|228|Court of Appeals – Eighth Court of Appeals District
+2011|229|Court of Appeals – Ninth Court of Appeals District
+2011|230|Court of Appeals – Tenth Court of Appeals District
+2011|231|Court of Appeals – Eleventh Court of Appeals District
+2011|232|Court of Appeals – Twelfth Court of Appeals District
+2011|233|Court of Appeals – Thirteenth Court of Appeals District
+2011|234|Court of Appeals – Fourteenth Court of Appeals District
+2011|241|District Courts – Comptroller’s Judiciary Section
+2011|242|State Commission on Judicial Conduct
+2011|243|State Law Library
+2011|300|Governor – Fiscal
+2011|301|Governor – Executive
+2011|302|Attorney General
+2011|303|Texas Facilities Commission
+2011|304|Comptroller of Public Accounts
+2011|305|General Land Office
+2011|306|Texas State Library and Archives Commission
+2011|307|Secretary of State
+2011|308|State Auditor
+2011|311|Comptroller – Treasury Fiscal
+2011|312|State Securities Board
+2011|313|Department of Information Resources
+2011|315|Comptroller – Prepaid Higher Education Tuition Board
+2011|320|Texas Workforce Commission
+2011|323|Teacher Retirement System of Texas
+2011|325|Fire Fighter’s Pension Commissioner
+2011|327|Employees Retirement System of Texas
+2011|329|Texas Real Estate Commission
+2011|332|Texas Department of Housing and Community Affairs
+2011|333|Office of State – Federal Relations
+2011|337|Board of Tax Professional Examiners
+2011|338|State Pension Review Board
+2011|344|Commission on Human Rights
+2011|347|Texas Public Finance Authority
+2011|352|Bond Review Board
+2011|356|Texas Ethics Commission
+2011|357|Texas Department of Rural Affairs
+2011|359|Office of Public Insurance Counsel
+2011|360|State Office of Administrative Hearings
+2011|362|Texas Lottery Commission
+2011|364|Health Professions Council
+2011|370|Texas Residential Construction Commission
+2011|401|Adjutant General’s Department
+2011|403|Texas Veterans Commission
+2011|405|Texas Department of Public Safety
+2011|407|Commission on Law Enforcement Officer Standards and Education
+2011|409|Commission on Jail Standards
+2011|411|Texas Commission on Fire Protection
+2011|448|Office of Injured Employee Counsel
+2011|450|Department of Savings and Mortgage Lending
+2011|451|Texas Department of Banking
+2011|452|Texas Department of Licensing and Regulation
+2011|454|Texas Department of Insurance
+2011|455|Railroad Commission of Texas
+2011|456|Board of Plumbing Examiners
+2011|457|Texas State Board of Public Accountancy
+2011|458|Texas Alcoholic Beverage Commission
+2011|459|Texas Board of Architectural Examiners
+2011|460|Texas Board of Professional Engineers
+2011|464|Texas Board of Professional Land Surveying
+2011|466|Office of Consumer Credit Commissioner
+2011|469|Credit Union Department
+2011|472|Texas Structural Pest Control Board
+2011|473|Public Utility Commission of Texas
+2011|475|Office of Public Utility Counsel
+2011|476|Texas Racing Commission
+2011|477|Commission on State Emergency Communications
+2011|479|State Office of Risk Management
+2011|481|Texas Board of Professional Geoscientists
+2011|501|Texas Department of Health
+2011|503|Texas Medical Board
+2011|504|State Board of Dental Examiners
+2011|506|University of Texas M.D. Anderson Cancer Center
+2011|507|Texas Board of Nursing
+2011|508|Texas Board of Chiropractic Examiners
+2011|512|State Board of Podiatric Medical Examiners
+2011|513|Texas Funeral Service Commission
+2011|514|Texas Optometry Board
+2011|515|Texas State Board of Pharmacy
+2011|520|Board of Examiners of Psychologists
+2011|527|Texas Cancer Council
+2011|528|State Anatomical Board
+2011|529|Health and Human Services Commission
+2011|530|Department of Family and Protective Services
+2011|533|Executive Council of Physical and Occupational Therapy Examiners
+2011|537|Department of State Health Services
+2011|538|Department of Assistive and Rehabilitative Services
+2011|539|Department of Aging and Disability Services
+2011|542|Cancer Prevention and Research Institute of Texas
+2011|543|Texas Council on Alzheimer's Disease and Related Disorders
+2011|551|Department of Agriculture
+2011|554|Texas Animal Health Commission
+2011|555|Texas AgriLife Extension Service
+2011|556|Texas AgriLife Research
+2011|557|Texas Veterinary Medical Diagnostic Laboratory
+2011|576|Texas Forest Service
+2011|578|State Board of Veterinary Medical Examiners
+2011|579|Rio Grande Compact Commission
+2011|580|Texas Water Development Board
+2011|582|Texas Commission on Environmental Quality
+2011|583|Sabine River Compact Administration
+2011|592|Soil and Water Conservation Board
+2011|596|Red River Compact Commission
+2011|598|Canadian River Commission
+2011|599|Pecos River Compact Commission
+2011|601|Texas Department of Transportation
+2011|608|Texas Department of Motor Vehicles
+2011|655|Texas Department of Mental Health and Mental Retardation
+2011|665|Texas Juvenile Probation Commission
+2011|694|Texas Youth Commission
+2011|696|Texas Department of Criminal Justice
+2011|701|Texas Education Agency
+2011|704|Public Community/Junior Colleges
+2011|709|Texas A&M University System Health Science Center
+2011|710|Texas A&M University System
+2011|711|Texas A&M University (Main University)
+2011|712|Texas Engineering Experiment Station
+2011|713|Tarleton State University
+2011|714|University of Texas at Arlington
+2011|715|Prairie View A&M University
+2011|716|Texas Engineering Extension Service
+2011|717|Texas Southern University
+2011|718|Texas A&M University at Galveston
+2011|719|Texas State Technical College System
+2011|720|University of Texas System
+2011|721|University of Texas at Austin
+2011|723|University of Texas Medical Branch at Galveston
+2011|724|University of Texas at El Paso
+2011|727|Texas Transportation Institute
+2011|729|University of Texas Southwestern Medical Center at Dallas
+2011|730|University of Houston
+2011|731|Texas Woman’s University
+2011|732|Texas A&M University – Kingsville
+2011|733|Texas Tech University
+2011|734|Lamar University
+2011|735|Midwestern State University
+2011|736|University of Texas – Pan American
+2011|737|Angelo State University
+2011|738|University of Texas at Dallas
+2011|739|Texas Tech University Health Sciences Center
+2011|742|University of Texas of the Permian Basin
+2011|743|University of Texas at San Antonio
+2011|744|University of Texas Health Science Center at Houston
+2011|745|University of Texas Health Science Center at San Antonio
+2011|747|University of Texas at Brownsville
+2011|749|Texas A&M University - San Antonio
+2011|750|University of Texas at Tyler
+2011|751|Texas A&M University – Commerce
+2011|752|University of North Texas
+2011|753|Sam Houston State University
+2011|754|Texas State University – San Marcos
+2011|755|Stephen F. Austin State University
+2011|756|Sul Ross State University
+2011|757|West Texas A&M University
+2011|758|Texas State University System
+2011|759|University of Houston – Clear Lake
+2011|760|Texas A&M University – Corpus Christi
+2011|761|Texas A&M International University
+2011|763|University of North Texas Health Science Center at Fort Worth
+2011|764|Texas A&M University – Texarkana
+2011|765|University of Houston – Victoria
+2011|768|Texas Tech University System
+2011|769|University of North Texas System
+2011|770|Texas A&M University - Central Texas
+2011|771|Texas School for the Blind and Visually Impaired
+2011|772|Texas School for the Deaf
+2011|773|University of North Texas at Dallas
+2011|781|Texas Higher Education Coordinating Board
+2011|783|University of Houston System
+2011|784|University of Houston – Downtown
+2011|785|University of Texas Health Center at Tyler
+2011|787|Lamar State College – Orange
+2011|788|Lamar State College – Port Arthur
+2011|789|Lamar Institute of Technology
+2011|802|Parks and Wildlife Department
+2011|808|Texas Historical Commission
+2011|809|State Preservation Board
+2011|813|Texas Commission on the Arts
+2011|819|Texas Emancipation Juneteenth Cultural and Historical Commission
+2011|902|Comptroller – State Fiscal
+2011|903|Comptroller – Funds Management
+2011|907|Comptroller – State Energy Conservation Office
+2011|930|Texas Treasury Safekeeping Trust Company
+2010|101|Senate
+2010|102|House of Representatives
+2010|103|Texas Legislative Council
+2010|104|Legislative Budget Board
+2010|105|Legislative Reference Library
+2010|107|Commission on Uniform State Laws
+2010|116|Sunset Advisory Commission
+2010|201|Supreme Court
+2010|202|State Bar of Texas
+2010|203|Board of Law Examiners
+2010|211|Court of Criminal Appeals
+2010|212|Office of Court Administration
+2010|213|State Prosecuting Attorney, Office of
+2010|215|Office of Capital Writs
+2010|221|Court of Appeals – First Court of Appeals District
+2010|222|Court of Appeals – Second Court of Appeals District
+2010|223|Court of Appeals – Third Court of Appeals District
+2010|224|Court of Appeals – Fourth Court of Appeals District
+2010|225|Court of Appeals – Fifth Court of Appeals District
+2010|226|Court of Appeals – Sixth Court of Appeals District
+2010|227|Court of Appeals – Seventh Court of Appeals District
+2010|228|Court of Appeals – Eighth Court of Appeals District
+2010|229|Court of Appeals – Ninth Court of Appeals District
+2010|230|Court of Appeals – Tenth Court of Appeals District
+2010|231|Court of Appeals – Eleventh Court of Appeals District
+2010|232|Court of Appeals – Twelfth Court of Appeals District
+2010|233|Court of Appeals – Thirteenth Court of Appeals District
+2010|234|Court of Appeals – Fourteenth Court of Appeals District
+2010|241|District Courts – Comptroller’s Judiciary Section
+2010|242|State Commission on Judicial Conduct
+2010|243|State Law Library
+2010|300|Governor – Fiscal
+2010|301|Governor – Executive
+2010|302|Attorney General
+2010|303|Texas Facilities Commission
+2010|304|Comptroller of Public Accounts
+2010|305|General Land Office
+2010|306|Texas State Library and Archives Commission
+2010|307|Secretary of State
+2010|308|State Auditor
+2010|311|Comptroller – Treasury Fiscal
+2010|312|State Securities Board
+2010|313|Department of Information Resources
+2010|315|Comptroller – Prepaid Higher Education Tuition Board
+2010|320|Texas Workforce Commission
+2010|323|Teacher Retirement System of Texas
+2010|325|Fire Fighter’s Pension Commissioner
+2010|327|Employees Retirement System of Texas
+2010|329|Texas Real Estate Commission
+2010|332|Texas Department of Housing and Community Affairs
+2010|333|Office of State – Federal Relations
+2010|337|Board of Tax Professional Examiners
+2010|338|State Pension Review Board
+2010|344|Commission on Human Rights
+2010|347|Texas Public Finance Authority
+2010|352|Bond Review Board
+2010|356|Texas Ethics Commission
+2010|357|Texas Department of Rural Affairs
+2010|359|Office of Public Insurance Counsel
+2010|360|State Office of Administrative Hearings
+2010|362|Texas Lottery Commission
+2010|364|Health Professions Council
+2010|370|Texas Residential Construction Commission
+2010|401|Adjutant General’s Department
+2010|403|Texas Veterans Commission
+2010|405|Texas Department of Public Safety
+2010|407|Commission on Law Enforcement Officer Standards and Education
+2010|409|Commission on Jail Standards
+2010|411|Texas Commission on Fire Protection
+2010|448|Office of Injured Employee Counsel
+2010|450|Department of Savings and Mortgage Lending
+2010|451|Texas Department of Banking
+2010|452|Texas Department of Licensing and Regulation
+2010|454|Texas Department of Insurance
+2010|455|Railroad Commission of Texas
+2010|456|Board of Plumbing Examiners
+2010|457|Texas State Board of Public Accountancy
+2010|458|Texas Alcoholic Beverage Commission
+2010|459|Texas Board of Architectural Examiners
+2010|460|Texas Board of Professional Engineers
+2010|464|Texas Board of Professional Land Surveying
+2010|466|Office of Consumer Credit Commissioner
+2010|469|Credit Union Department
+2010|472|Texas Structural Pest Control Board
+2010|473|Public Utility Commission of Texas
+2010|475|Office of Public Utility Counsel
+2010|476|Texas Racing Commission
+2010|477|Commission on State Emergency Communications
+2010|479|State Office of Risk Management
+2010|481|Texas Board of Professional Geoscientists
+2010|501|Texas Department of Health
+2010|503|Texas Medical Board
+2010|504|State Board of Dental Examiners
+2010|506|University of Texas M.D. Anderson Cancer Center
+2010|507|Texas Board of Nursing
+2010|508|Texas Board of Chiropractic Examiners
+2010|512|State Board of Podiatric Medical Examiners
+2010|513|Texas Funeral Service Commission
+2010|514|Texas Optometry Board
+2010|515|Texas State Board of Pharmacy
+2010|520|Board of Examiners of Psychologists
+2010|527|Texas Cancer Council
+2010|528|State Anatomical Board
+2010|529|Health and Human Services Commission
+2010|530|Department of Family and Protective Services
+2010|533|Executive Council of Physical and Occupational Therapy Examiners
+2010|537|Department of State Health Services
+2010|538|Department of Assistive and Rehabilitative Services
+2010|539|Department of Aging and Disability Services
+2010|542|Cancer Prevention and Research Institute of Texas
+2010|551|Department of Agriculture
+2010|554|Texas Animal Health Commission
+2010|555|Texas AgriLife Extension Service
+2010|556|Texas AgriLife Research
+2010|557|Texas Veterinary Medical Diagnostic Laboratory
+2010|576|Texas Forest Service
+2010|578|State Board of Veterinary Medical Examiners
+2010|579|Rio Grande Compact Commission
+2010|580|Texas Water Development Board
+2010|582|Texas Commission on Environmental Quality
+2010|583|Sabine River Compact Administration
+2010|592|Soil and Water Conservation Board
+2010|596|Red River Compact Commission
+2010|598|Canadian River Commission
+2010|599|Pecos River Compact Commission
+2010|601|Texas Department of Transportation
+2010|608|Texas Department of Motor Vehicles
+2010|655|Texas Department of Mental Health and Mental Retardation
+2010|665|Texas Juvenile Probation Commission
+2010|694|Texas Youth Commission
+2010|696|Texas Department of Criminal Justice
+2010|701|Texas Education Agency
+2010|704|Public Community/Junior Colleges
+2010|709|Texas A&M University System Health Science Center
+2010|710|Texas A&M University System
+2010|711|Texas A&M University (Main University)
+2010|712|Texas Engineering Experiment Station
+2010|713|Tarleton State University
+2010|714|University of Texas at Arlington
+2010|715|Prairie View A&M University
+2010|716|Texas Engineering Extension Service
+2010|717|Texas Southern University
+2010|718|Texas A&M University at Galveston
+2010|719|Texas State Technical College System
+2010|720|University of Texas System
+2010|721|University of Texas at Austin
+2010|723|University of Texas Medical Branch at Galveston
+2010|724|University of Texas at El Paso
+2010|727|Texas Transportation Institute
+2010|729|University of Texas Southwestern Medical Center at Dallas
+2010|730|University of Houston
+2010|731|Texas Woman’s University
+2010|732|Texas A&M University – Kingsville
+2010|733|Texas Tech University
+2010|734|Lamar University
+2010|735|Midwestern State University
+2010|736|University of Texas – Pan American
+2010|737|Angelo State University
+2010|738|University of Texas at Dallas
+2010|739|Texas Tech University Health Sciences Center
+2010|742|University of Texas of the Permian Basin
+2010|743|University of Texas at San Antonio
+2010|744|University of Texas Health Science Center at Houston
+2010|745|University of Texas Health Science Center at San Antonio
+2010|747|University of Texas at Brownsville
+2010|749|Texas A&M University - San Antonio
+2010|750|University of Texas at Tyler
+2010|751|Texas A&M University – Commerce
+2010|752|University of North Texas
+2010|753|Sam Houston State University
+2010|754|Texas State University – San Marcos
+2010|755|Stephen F. Austin State University
+2010|756|Sul Ross State University
+2010|757|West Texas A&M University
+2010|758|Texas State University System
+2010|759|University of Houston – Clear Lake
+2010|760|Texas A&M University – Corpus Christi
+2010|761|Texas A&M International University
+2010|763|University of North Texas Health Science Center at Fort Worth
+2010|764|Texas A&M University – Texarkana
+2010|765|University of Houston – Victoria
+2010|768|Texas Tech University System
+2010|769|University of North Texas System
+2010|770|Texas A&M University - Central Texas
+2010|771|Texas School for the Blind and Visually Impaired
+2010|772|Texas School for the Deaf
+2010|773|University of North Texas at Dallas
+2010|781|Texas Higher Education Coordinating Board
+2010|783|University of Houston System
+2010|784|University of Houston – Downtown
+2010|785|University of Texas Health Center at Tyler
+2010|787|Lamar State College – Orange
+2010|788|Lamar State College – Port Arthur
+2010|789|Lamar Institute of Technology
+2010|802|Parks and Wildlife Department
+2010|808|Texas Historical Commission
+2010|809|State Preservation Board
+2010|813|Texas Commission on the Arts
+2010|819|Texas Emancipation Juneteenth Cultural and Historical Commission
+2010|902|Comptroller – State Fiscal
+2010|903|Comptroller – Funds Management
+2010|907|Comptroller – State Energy Conservation Office
+2010|930|Texas Treasury Safekeeping Trust Company
+2009|101|Senate
+2009|102|House of Representatives
+2009|103|Texas Legislative Council
+2009|104|Legislative Budget Board
+2009|105|Legislative Reference Library
+2009|107|Commission on Uniform State Laws
+2009|116|Sunset Advisory Commission
+2009|201|Supreme Court
+2009|202|State Bar of Texas
+2009|203|Board of Law Examiners
+2009|211|Court of Criminal Appeals
+2009|212|Office of Court Administration
+2009|213|State Prosecuting Attorney, Office of
+2009|215|Office of Capital Writs
+2009|221|Court of Appeals – First Court of Appeals District
+2009|222|Court of Appeals – Second Court of Appeals District
+2009|223|Court of Appeals – Third Court of Appeals District
+2009|224|Court of Appeals – Fourth Court of Appeals District
+2009|225|Court of Appeals – Fifth Court of Appeals District
+2009|226|Court of Appeals – Sixth Court of Appeals District
+2009|227|Court of Appeals – Seventh Court of Appeals District
+2009|228|Court of Appeals – Eighth Court of Appeals District
+2009|229|Court of Appeals – Ninth Court of Appeals District
+2009|230|Court of Appeals – Tenth Court of Appeals District
+2009|231|Court of Appeals – Eleventh Court of Appeals District
+2009|232|Court of Appeals – Twelfth Court of Appeals District
+2009|233|Court of Appeals – Thirteenth Court of Appeals District
+2009|234|Court of Appeals – Fourteenth Court of Appeals District
+2009|241|District Courts – Comptroller’s Judiciary Section
+2009|242|State Commission on Judicial Conduct
+2009|243|State Law Library
+2009|300|Governor – Fiscal
+2009|301|Governor – Executive
+2009|302|Attorney General
+2009|303|Texas Facilities Commission
+2009|304|Comptroller of Public Accounts
+2009|305|General Land Office
+2009|306|Texas State Library and Archives Commission
+2009|307|Secretary of State
+2009|308|State Auditor
+2009|311|Comptroller – Treasury Fiscal
+2009|312|State Securities Board
+2009|313|Department of Information Resources
+2009|315|Comptroller – Prepaid Higher Education Tuition Board
+2009|317|General Land Office – Fiscal
+2009|320|Texas Workforce Commission
+2009|323|Teacher Retirement System of Texas
+2009|325|Fire Fighter’s Pension Commissioner
+2009|327|Employees Retirement System of Texas
+2009|329|Texas Real Estate Commission
+2009|330|Texas Rehabilitation Commission
+2009|332|Texas Department of Housing and Community Affairs
+2009|333|Office of State – Federal Relations
+2009|337|Board of Tax Professional Examiners
+2009|338|State Pension Review Board
+2009|340|Texas Department on Aging
+2009|344|Commission on Human Rights
+2009|347|Texas Public Finance Authority
+2009|352|Bond Review Board
+2009|356|Texas Ethics Commission
+2009|357|Office of Rural Community Affairs
+2009|359|Office of Public Insurance Counsel
+2009|360|State Office of Administrative Hearings
+2009|362|Texas Lottery Commission
+2009|364|Health Professions Council
+2009|369|Texas Council on Environmental Technology
+2009|370|Texas Residential Construction Commission
+2009|401|Adjutant General’s Department
+2009|403|Texas Veterans Commission
+2009|405|Texas Department of Public Safety
+2009|406|Texas Military Facilities Commission
+2009|407|Commission on Law Enforcement Officer Standards and Education
+2009|409|Commission on Jail Standards
+2009|411|Texas Commission on Fire Protection
+2009|448|Office of Injured Employee Counsel
+2009|450|Department of Savings and Mortgage Lending
+2009|451|Texas Department of Banking
+2009|452|Texas Department of Licensing and Regulation
+2009|453|Texas Workers’ Compensation Commission
+2009|454|Texas Department of Insurance
+2009|455|Railroad Commission of Texas
+2009|456|Board of Plumbing Examiners
+2009|457|Texas State Board of Public Accountancy
+2009|458|Texas Alcoholic Beverage Commission
+2009|459|Texas Board of Architectural Examiners
+2009|460|Texas Board of Professional Engineers
+2009|464|Texas Board of Professional Land Surveying
+2009|466|Office of Consumer Credit Commissioner
+2009|469|Credit Union Department
+2009|472|Texas Structural Pest Control Board
+2009|473|Public Utility Commission of Texas
+2009|475|Office of Public Utility Counsel
+2009|476|Texas Racing Commission
+2009|477|Commission on State Emergency Communications
+2009|479|State Office of Risk Management
+2009|481|Texas Board of Professional Geoscientists
+2009|501|Texas Department of Health
+2009|503|Texas Medical Board
+2009|504|State Board of Dental Examiners
+2009|505|Cosmetology Commission
+2009|506|University of Texas M.D. Anderson Cancer Center
+2009|507|Texas Board of Nursing
+2009|508|Texas Board of Chiropractic Examiners
+2009|512|State Board of Podiatric Medical Examiners
+2009|513|Texas Funeral Service Commission
+2009|514|Texas Optometry Board
+2009|515|Texas State Board of Pharmacy
+2009|520|Board of Examiners of Psychologists
+2009|527|Texas Cancer Council
+2009|529|Health and Human Services Commission
+2009|530|Department of Family and Protective Services
+2009|533|Executive Council of Physical and Occupational Therapy Examiners
+2009|537|Department of State Health Services
+2009|538|Department of Assistive and Rehabilitative Services
+2009|539|Department of Aging and Disability Services
+2009|542|Cancer Prevention and Research Institute of Texas
+2009|551|Department of Agriculture
+2009|554|Texas Animal Health Commission
+2009|555|Texas AgriLife Extension Service
+2009|556|Texas AgriLife Research
+2009|557|Texas Veterinary Medical Diagnostic Laboratory
+2009|576|Texas Forest Service
+2009|578|State Board of Veterinary Medical Examiners
+2009|579|Rio Grande Compact Commission
+2009|580|Texas Water Development Board
+2009|582|Texas Commission on Environmental Quality
+2009|583|Sabine River Compact Administration
+2009|592|Soil and Water Conservation Board
+2009|596|Red River Compact Commission
+2009|598|Canadian River Commission
+2009|599|Pecos River Compact Commission
+2009|601|Texas Department of Transportation
+2009|655|Texas Department of Mental Health and Mental Retardation
+2009|665|Texas Juvenile Probation Commission
+2009|694|Texas Youth Commission
+2009|696|Texas Department of Criminal Justice
+2009|701|Texas Education Agency
+2009|704|Public Community/Junior Colleges
+2009|709|Texas A&M University System Health Science Center
+2009|710|Texas A&M University System
+2009|711|Texas A&M University (Main University)
+2009|712|Texas Engineering Experiment Station
+2009|713|Tarleton State University
+2009|714|University of Texas at Arlington
+2009|715|Prairie View A&M University
+2009|716|Texas Engineering Extension Service
+2009|717|Texas Southern University
+2009|718|Texas A&M University at Galveston
+2009|719|Texas State Technical College System
+2009|720|University of Texas System
+2009|721|University of Texas at Austin
+2009|723|University of Texas Medical Branch at Galveston
+2009|724|University of Texas at El Paso
+2009|727|Texas Transportation Institute
+2009|729|University of Texas Southwestern Medical Center at Dallas
+2009|730|University of Houston
+2009|731|Texas Woman’s University
+2009|732|Texas A&M University – Kingsville
+2009|733|Texas Tech University
+2009|734|Lamar University
+2009|735|Midwestern State University
+2009|736|University of Texas – Pan American
+2009|737|Angelo State University
+2009|738|University of Texas at Dallas
+2009|739|Texas Tech University Health Sciences Center
+2009|742|University of Texas of the Permian Basin
+2009|743|University of Texas at San Antonio
+2009|744|University of Texas Health Science Center at Houston
+2009|745|University of Texas Health Science Center at San Antonio
+2009|747|University of Texas at Brownsville
+2009|749|Texas A&M University - San Antonio
+2009|750|University of Texas at Tyler
+2009|751|Texas A&M University – Commerce
+2009|752|University of North Texas
+2009|753|Sam Houston State University
+2009|754|Texas State University – San Marcos
+2009|755|Stephen F. Austin State University
+2009|756|Sul Ross State University
+2009|757|West Texas A&M University
+2009|758|Board of Regents, Texas State University System
+2009|759|University of Houston – Clear Lake
+2009|760|Texas A&M University – Corpus Christi
+2009|761|Texas A&M International University
+2009|763|University of North Texas Health Science Center at Fort Worth
+2009|764|Texas A&M University – Texarkana
+2009|765|University of Houston – Victoria
+2009|768|Texas Tech University System
+2009|769|University of North Texas System
+2009|770|Texas A&M University - Central Texas
+2009|771|Texas School for the Blind and Visually Impaired
+2009|772|Texas School for the Deaf
+2009|773|University of North Texas - Dallas
+2009|781|Texas Higher Education Coordinating Board
+2009|783|University of Houston System
+2009|784|University of Houston – Downtown
+2009|785|University of Texas Health Center at Tyler
+2009|787|Lamar State College – Orange
+2009|788|Lamar State College – Port Arthur
+2009|789|Lamar Institute of Technology
+2009|802|Parks and Wildlife Department
+2009|808|Texas Historical Commission
+2009|809|State Preservation Board
+2009|813|Texas Commission on the Arts
+2009|819|Texas Emancipation Juneteenth Cultural and Historical Commission
+2009|902|Comptroller – State Fiscal
+2009|903|Comptroller – Funds Management
+2009|907|Comptroller – State Energy Conservation Office
+2009|930|Treasury Safekeeping Trust Company
+2008|101|Senate
+2008|102|House of Representatives
+2008|103|Texas Legislative Council
+2008|104|Legislative Budget Board
+2008|105|Legislative Reference Library
+2008|107|Commission on Uniform State Laws
+2008|116|Sunset Advisory Commission
+2008|201|Supreme Court
+2008|202|State Bar of Texas
+2008|203|Board of Law Examiners
+2008|211|Court of Criminal Appeals
+2008|212|Office of Court Administration
+2008|213|State Prosecuting Attorney, Office of
+2008|221|Court of Appeals – First Court of Appeals District
+2008|222|Court of Appeals – Second Court of Appeals District
+2008|223|Court of Appeals – Third Court of Appeals District
+2008|224|Court of Appeals – Fourth Court of Appeals District
+2008|225|Court of Appeals – Fifth Court of Appeals District
+2008|226|Court of Appeals – Sixth Court of Appeals District
+2008|227|Court of Appeals – Seventh Court of Appeals District
+2008|228|Court of Appeals – Eighth Court of Appeals District
+2008|229|Court of Appeals – Ninth Court of Appeals District
+2008|230|Court of Appeals – Tenth Court of Appeals District
+2008|231|Court of Appeals – Eleventh Court of Appeals District
+2008|232|Court of Appeals – Twelfth Court of Appeals District
+2008|233|Court of Appeals – Thirteenth Court of Appeals District
+2008|234|Court of Appeals – Fourteenth Court of Appeals District
+2008|241|District Courts – Comptroller’s Judiciary Section
+2008|242|State Commission on Judicial Conduct
+2008|243|State Law Library
+2008|300|Governor – Fiscal
+2008|301|Governor – Executive
+2008|302|Attorney General
+2008|303|Texas Facilities Commission
+2008|304|Comptroller of Public Accounts
+2008|305|General Land Office
+2008|306|Texas State Library and Archives Commission
+2008|307|Secretary of State
+2008|308|State Auditor
+2008|311|Comptroller – Treasury Fiscal
+2008|312|State Securities Board
+2008|313|Department of Information Resources
+2008|315|Comptroller – Prepaid Higher Education Tuition Board
+2008|317|General Land Office – Fiscal
+2008|320|Texas Workforce Commission
+2008|323|Teacher Retirement System of Texas
+2008|325|Fire Fighter’s Pension Commissioner
+2008|327|Employees Retirement System of Texas
+2008|329|Texas Real Estate Commission
+2008|330|Texas Rehabilitation Commission
+2008|332|Texas Department of Housing and Community Affairs
+2008|333|Office of State – Federal Relations
+2008|337|Board of Tax Professional Examiners
+2008|338|State Pension Review Board
+2008|340|Texas Department on Aging
+2008|344|Commission on Human Rights
+2008|347|Texas Public Finance Authority
+2008|352|Bond Review Board
+2008|353|Texas Incentive and Productivity Commission
+2008|356|Texas Ethics Commission
+2008|357|Office of Rural Community Affairs
+2008|359|Office of Public Insurance Counsel
+2008|360|State Office of Administrative Hearings
+2008|362|Texas Lottery Commission
+2008|364|Health Professions Council
+2008|369|Texas Council on Environmental Technology
+2008|370|Texas Residential Construction Commission
+2008|401|Adjutant General’s Department
+2008|403|Texas Veterans Commission
+2008|405|Texas Department of Public Safety
+2008|406|Texas Military Facilities Commission
+2008|407|Commission on Law Enforcement Officer Standards and Education
+2008|409|Commission on Jail Standards
+2008|411|Texas Commission on Fire Protection
+2008|448|Office of Injured Employee Counsel
+2008|450|Department of Savings and Mortgage Lending
+2008|451|Texas Department of Banking
+2008|452|Texas Department of Licensing and Regulation
+2008|453|Texas Workers’ Compensation Commission
+2008|454|Texas Department of Insurance
+2008|455|Railroad Commission of Texas
+2008|456|Board of Plumbing Examiners
+2008|457|Texas State Board of Public Accountancy
+2008|458|Texas Alcoholic Beverage Commission
+2008|459|Texas Board of Architectural Examiners
+2008|460|Texas Board of Professional Engineers
+2008|464|Texas Board of Professional Land Surveying
+2008|466|Office of Consumer Credit Commissioner
+2008|469|Credit Union Department
+2008|472|Texas Structural Pest Control Board
+2008|473|Public Utility Commission of Texas
+2008|475|Office of Public Utility Counsel
+2008|476|Texas Racing Commission
+2008|477|Commission on State Emergency Communications
+2008|479|State Office of Risk Management
+2008|481|Texas Board of Professional Geoscientists
+2008|501|Texas Department of Health
+2008|503|Texas Medical Board
+2008|504|State Board of Dental Examiners
+2008|505|Cosmetology Commission
+2008|506|University of Texas M.D. Anderson Cancer Center
+2008|507|Texas Board of Nursing
+2008|508|Texas Board of Chiropractic Examiners
+2008|512|State Board of Podiatric Medical Examiners
+2008|513|Texas Funeral Service Commission
+2008|514|Texas Optometry Board
+2008|515|Texas State Board of Pharmacy
+2008|520|Board of Examiners of Psychologists
+2008|527|Texas Cancer Council
+2008|529|Health and Human Services Commission
+2008|530|Department of Family and Protective Services
+2008|533|Executive Council of Physical and Occupational Therapy Examiners
+2008|537|Department of State Health Services
+2008|538|Department of Assistive and Rehabilitative Services
+2008|539|Department of Aging and Disability Services
+2008|542|Cancer Prevention and Research Institute of Texas
+2008|551|Department of Agriculture
+2008|554|Texas Animal Health Commission
+2008|555|Texas AgriLife Extension Service
+2008|556|Texas AgriLife Research
+2008|557|Texas Veterinary Medical Diagnostic Laboratory
+2008|576|Texas Forest Service
+2008|578|State Board of Veterinary Medical Examiners
+2008|579|Rio Grande Compact Commission
+2008|580|Texas Water Development Board
+2008|582|Texas Commission on Environmental Quality
+2008|583|Sabine River Compact Administration
+2008|592|Soil and Water Conservation Board
+2008|596|Red River Compact Commission
+2008|598|Canadian River Commission
+2008|599|Pecos River Compact Commission
+2008|601|Texas Department of Transportation
+2008|655|Texas Department of Mental Health and Mental Retardation
+2008|665|Texas Juvenile Probation Commission
+2008|694|Texas Youth Commission
+2008|696|Texas Department of Criminal Justice
+2008|701|Texas Education Agency
+2008|704|Public Community/Junior Colleges
+2008|709|Texas A&M University System Health Science Center
+2008|710|Texas A&M University System
+2008|711|Texas A&M University (Main University)
+2008|712|Texas Engineering Experiment Station
+2008|713|Tarleton State University
+2008|714|University of Texas at Arlington
+2008|715|Prairie View A&M University
+2008|716|Texas Engineering Extension Service
+2008|717|Texas Southern University
+2008|718|Texas A&M University at Galveston
+2008|719|Texas State Technical College System
+2008|720|University of Texas System
+2008|721|University of Texas at Austin
+2008|723|University of Texas Medical Branch at Galveston
+2008|724|University of Texas at El Paso
+2008|727|Texas Transportation Institute
+2008|729|University of Texas Southwestern Medical Center at Dallas
+2008|730|University of Houston
+2008|731|Texas Woman’s University
+2008|732|Texas A&M University – Kingsville
+2008|733|Texas Tech University
+2008|734|Lamar University
+2008|735|Midwestern State University
+2008|736|University of Texas – Pan American
+2008|737|Angelo State University
+2008|738|University of Texas at Dallas
+2008|739|Texas Tech University Health Sciences Center
+2008|742|University of Texas of the Permian Basin
+2008|743|University of Texas at San Antonio
+2008|744|University of Texas Health Science Center at Houston
+2008|745|University of Texas Health Science Center at San Antonio
+2008|747|University of Texas at Brownsville
+2008|750|University of Texas at Tyler
+2008|751|Texas A&M University – Commerce
+2008|752|University of North Texas
+2008|753|Sam Houston State University
+2008|754|Texas State University – San Marcos
+2008|755|Stephen F. Austin State University
+2008|756|Sul Ross State University
+2008|757|West Texas A&M University
+2008|758|Board of Regents, Texas State University System
+2008|759|University of Houston – Clear Lake
+2008|760|Texas A&M University – Corpus Christi
+2008|761|Texas A&M International University
+2008|763|University of North Texas Health Science Center at Fort Worth
+2008|764|Texas A&M University – Texarkana
+2008|765|University of Houston – Victoria
+2008|768|Texas Tech University System
+2008|769|University of North Texas System
+2008|771|Texas School for the Blind and Visually Impaired
+2008|772|Texas School for the Deaf
+2008|781|Texas Higher Education Coordinating Board
+2008|783|University of Houston System
+2008|784|University of Houston – Downtown
+2008|785|University of Texas Health Center at Tyler
+2008|787|Lamar State College – Orange
+2008|788|Lamar State College – Port Arthur
+2008|789|Lamar Institute of Technology
+2008|802|Parks and Wildlife Department
+2008|808|Texas Historical Commission
+2008|809|State Preservation Board
+2008|813|Texas Commission on the Arts
+2008|819|Texas Emancipation Juneteenth Cultural and Historical Commission
+2008|902|Comptroller – State Fiscal
+2008|903|Comptroller – Funds Management
+2008|907|Comptroller – State Energy Conservation Office
+2008|930|Treasury Safekeeping Trust Company
