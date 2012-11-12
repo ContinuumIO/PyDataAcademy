@@ -1,0 +1,15 @@
+{
+	"name": "dimension_loading",
+	"label": "dimension_loading",
+	"category": "etl",
+
+	"level": "beginner",
+
+	"required": [
+			"etl_basics",
+            "sql_basics"
+		],
+
+	"recommended": ["analytical_modellign"],
+	"author": "Continuum Analytics"
+}
