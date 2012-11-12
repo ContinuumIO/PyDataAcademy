@@ -1,0 +1,2 @@
+convert -resize 480x320 youtube_cats_html.png  youtube_cats_html.png
+convert +append youtube_cats.png youtube_cats_html.png youtube_cats_all.png
