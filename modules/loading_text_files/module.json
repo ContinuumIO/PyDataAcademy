@@ -7,5 +7,8 @@
 	"required": [ "python", "numpy-basics" ],
 	"recommended": [],
 
-	"author": "Continuum Analytics"
+    "required_packages": ["numpy"],
+
+	"authors": ["Continuum Analytics",
+                "Stefan Urbanek"]
 }

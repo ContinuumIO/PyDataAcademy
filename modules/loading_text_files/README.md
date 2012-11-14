@@ -1,3 +1,13 @@
+Loading Text Files into Numpy
+=============================
+
+To learn from this module, use ipython notebook::
+
+    ipython notebook loading_text_files.ipynb
+
+Data
+====
+
 External Sources
 ----------------
 
