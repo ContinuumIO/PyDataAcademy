@@ -1,0 +1,19 @@
+{
+	"name": "web_scraping",
+	"label": "Web Scraping",
+	"synopsis": "How to scrape data from the web, how to transform web pages into a structured data, store them in a table and perform basic anaytics.",
+	"category": "etl",
+
+	"level": "beginner",
+
+	"required": [
+		],
+
+    "required_packages": [
+            "BeautifulSoup",
+            "request"
+        ],
+
+	"recommended": [],
+	"authors": ["Ben Zaitlen <ben.zaitlen@continuum.io>", "Continuum Analytics"]
+}
