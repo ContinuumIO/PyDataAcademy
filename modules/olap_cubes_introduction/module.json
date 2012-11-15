@@ -1,6 +1,7 @@
 {
 	"name": "olap_cubes_introduction",
 	"label": "OLAP Cubes - introduction",
+	"synopsis": "Introduction to multidimensional modelling, development of simple models, basic data aggregation",
 	"category": "analytical_modelling",
 
 	"level": "beginner",

@@ -1,6 +1,7 @@
 {
 	"name": "etl_basics",
 	"label": "ETL Basics",
+	"synopsis": "Introduction to data transformation and loading, basic transformation techniques.",
 	"level": "beginner",
 	"category": "processing",
 

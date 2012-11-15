@@ -1,6 +1,7 @@
 {
 	"name": "dimension_loading",
-	"label": "dimension_loading",
+	"label": "Dimension Loading",
+	"synopsis": "How to load a dimension table, what are slowly changing dimensions, how to handle the changes (Type 1 change)",
 	"category": "etl",
 
 	"level": "beginner",
@@ -10,6 +11,11 @@
             "sql_basics"
 		],
 
+
+    "required_packages": [
+            "sqlalchemy"
+        ],
+
 	"recommended": ["analytical_modellign"],
-	"author": "Continuum Analytics"
+	"authors": ["Stefan Urbanek", "Continuum Analytics"]
 }

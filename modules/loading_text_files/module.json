@@ -2,6 +2,7 @@
 	"name": "loading_text_files",
 	"label": "Loading Text Files (numpy)",
 	"category": "extraction",
+	"synopsis": "Introduction to variety of text file formats (comma separated, fixed width), loading the files into numpy arrays, basic data treatment.",
 	"level": "beginner",
 
 	"required": [ "python", "numpy-basics" ],
