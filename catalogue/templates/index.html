@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>PyData Academy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+
+      <!-- Main hero unit for a primary marketing message or call to action -->
+      <div class="hero-unit">
+          <h1>PyData Academy</h1>
+          <p>curriculum for data scientists covering wider knowledge of
+          data-related topics.  </p>
+      </div>
+
+      <ul class="thumbnails">
+          {% for module in modules %}
+          <li class="span4">
+          <div class="thumbnail">
+          <h4><a href="modules/{{module.name}}.html" class="thumbnail">
+                  {{module.label}}
+          </a></h4>
+          <p>{{module.synopsis}}</p>
+          <small>Level: {{module.level}}</small>
+          </div>
+          </li>
+          {% endfor %}
+      </ul>
+
+      <hr>
+
+      <footer>
+        <p>&copy; Continuum Analytics 2012</p>
+      </footer>
+
+    </div> <!-- /container -->
+     <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap-transition.js"></script>
+    <script src="js/bootstrap-alert.js"></script>
+    <script src="js/bootstrap-modal.js"></script>
+    <script src="js/bootstrap-dropdown.js"></script>
+    <script src="js/bootstrap-scrollspy.js"></script>
+    <script src="js/bootstrap-tab.js"></script>
+    <script src="js/bootstrap-tooltip.js"></script>
+    <script src="js/bootstrap-popover.js"></script>
+    <script src="js/bootstrap-button.js"></script>
+    <script src="js/bootstrap-collapse.js"></script>
+    <script src="js/bootstrap-carousel.js"></script>
+    <script src="js/bootstrap-typeahead.js"></script></body>
+</html>
+
