@@ -27,7 +27,37 @@
 
         <p class="lead">How to load a dimension table, what are slowly changing dimensions, how to handle the changes (Type 1 change)</p>
 
-        
+        <h1>Dimension Loading and Slowly Changing Dimensions</h1>
+<h2>Knowledge learned</h2>
+<ul>
+<li>how to load a dimension table from CSV file</li>
+<li>what are slowly changing dimensions</li>
+<li>how to handle the changes</li>
+<li>Type 1 change</li>
+</ul>
+<h2>Reusable utility functions</h2>
+<p>Here is a list of utility functions that you will create as excercise and you
+might reuse in your code:</p>
+<ul>
+<li><code>table_size(table)</code> - return number of rows in a table</li>
+<li><code>dimension_file_reader(filename)</code> - read dimension file encoded as UTF-8
+  from shared data source directory and yield dimension rows</li>
+<li><code>load_dimension_table(table, filename, truncate)</code> - load data from
+  <code>filename</code> into a <code>table</code>, delete all records in <code>table</code> if <code>truncate</code> is
+  <code>True</code></li>
+<li><code>table_diff(left, right)</code> - provide row difference between tables</li>
+<li><code>append_new()</code> - append new rows form one table to another</li>
+<li><code>update_dimension()</code> - load data from a file into a dimension table through
+  temporary table, apply <em>Type 1</em> change</li>
+</ul>
+<h2>Required knowledge</h2>
+<ul>
+<li>SQL basics</li>
+</ul>
+<h2>Software Requirements</h2>
+<ul>
+<li>sqlalchemy</li>
+</ul>
 
       <hr>
 

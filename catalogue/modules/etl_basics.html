@@ -27,7 +27,46 @@
 
         <p class="lead">Introduction to data transformation and loading, basic transformation techniques.</p>
 
-        
+        <h1>ETL Basics</h1>
+<p>Objective of this tutorial is to learn basics of ETL and to prepare simple
+star schema for aggregated browsing with Cubes. Data source is denormalized
+table, originally stored in a CSV file.</p>
+<p>All transformations and data preparation is being done purely in Python. SQL
+library is used only for storing the data in a relational database. Note that
+some cells might contain intentionally faulty code. Read following cells for
+more information about the error.</p>
+<h2>Skills gained</h2>
+<ul>
+<li>working with CSV file</li>
+<li>working with database schema (creation and deletion of tables)</li>
+<li>loading of data into a database</li>
+<li>data transformations</li>
+<li>normalization</li>
+<li>surroage keys (basics)</li>
+<li>how to make process reproducible and extensible</li>
+<li>how to maintain data provenance</li>
+</ul>
+<h2>Required knowledge</h2>
+<ul>
+<li>relational database basics</li>
+<li>regular expression bacisc</li>
+</ul>
+<h2>Other requirements</h2>
+<ul>
+<li><a href="http://www.sqlalchemy.org">sqlalchemy</a> - SQL/relational database framework</li>
+</ul>
+<h2>Utility functions</h2>
+<p>This module provides following reusable utility functions:</p>
+<ul>
+<li><code>distinct(rows, column)</code> - get distinct values of a column from list of rows</li>
+<li><code>transform(row, transformation, index_map)</code> - transforms row according to transformation (see the module)</li>
+</ul>
+<h2>Data</h2>
+<ul>
+<li>Source: <a href="https://finances.worldbank.org/Procurement/Major-Contract-Awards-FY2010-FY2012-Beta-version/kdui-wcs3">World Bank</a></li>
+<li>File name: <code>Major_Contract_Awards_FY2010_-_FY2012_-_Beta_version.csv</code></li>
+<li>Date of download: 2012-10-11</li>
+</ul>
 
       <hr>
 
